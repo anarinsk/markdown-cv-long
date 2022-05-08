@@ -6,9 +6,9 @@ title: Jun Sok Huhh's CV
 Economist, Data Scientist, Executive Director
 
 <div id="webaddress">
-<a href="junsokhuhh@ncsoft.com">mail(work)</a>
+<a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>
 &middot;
-<a href="anarinsk@gmail.com">mail(personal)</a>
+<a href="mailto: anarinsk@gmail.com">mail(personal)</a>
 | 
 <a href="https://github.com/anarinsk">github</a>
 &middot;
