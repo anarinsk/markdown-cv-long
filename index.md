@@ -1,29 +1,47 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jun Sok Huhh's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jun Sok Huhh / 허준석
+Economist, Data Scientist, Executive Director 
+
+
+[mail4work](junsokhuhh@ncsoft.com) &middot; [mail4personal](anarinsk@gmail.com) &middot; [github](https://github.com/anarinsk) &middot;  [blog](http://lostineconomics.com) &vert; updated: May 8, 2022
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="junsokhuhh@ncsoft.com">mail(work)</a>
+<a href="anarinsk@gmail.com">mail(personal)</a>
+| 
+<a href="https://github.com/anarinsk">github</a>
+<a href="http://lostineconomics.com">blog</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Lead, Data Center, NCSOFT (South Korea)
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Data analytics, Economics 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Econometric analysis on online gaming behaviors, game theory, Real-money trading in online games 
 
+## Employment 
+
+`2019.02--present`
+__NCSOFT__, Data Center (Seongnam Gyeonggi  &#183; South Korea)
+- Lead (executive director)
+- managing the group of data scientists
+
+`2018.03--2019.01`
+__NCSOFT__, I&I Division (Seongnam Gyeonggi  &#183; South Korea) 2018.03--2019.01 
+- Lead 
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
 
 ## Education
 
@@ -86,6 +104,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
 
 
