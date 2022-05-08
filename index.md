@@ -17,7 +17,7 @@ Economist, Data Scientist, Executive Director
 
 ## Currently
 
-Lead, Data Center, NCSOFT (South Korea)
+__NCSOFT__ (South Korea), Lead of Data Center
 
 ### Specialized in
 
