@@ -7,16 +7,17 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: 'NanumSquare' !important;
     font-weight : 600;
+    font-size: 80%;
   }
 
-  ul, li, ol, a{
+ul, li, ol, a{
     font-family: 'pretendard' !important;
     font-size:95%;
    }
 
 p {
-    font-family: 'NanumSquare' !important;
-    font-size: 70%;
+    font-family: 'pretendard' !important;
+    font-size: 100%;
     font-weight: 400; 
 }
 
