@@ -97,6 +97,6 @@ NetLogo, Docker, Kubernetes
 
 <!-- ### Footer
 
-Last updated: May 2021 -->
+Last updated: May 2022 -->
 
 
