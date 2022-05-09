@@ -6,10 +6,8 @@ title: Jun Sok Huhh's CV
 Economist, Data Scientist
 
 <div id="webaddress">
-<a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>
-&middot;<a href="mailto: anarinsk@gmail.com">mail(personal)</a> | 
-<a href="https://github.com/anarinsk">github</a>
-&middot;<a href="http://lostineconomics.com">blog</a>
+<a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>&middot;<a href="mailto: anarinsk@gmail.com">mail(personal)</a> | 
+<a href="https://github.com/anarinsk">github</a>&middot;<a href="http://lostineconomics.com">blog</a>
 </div>
 
 ## Currently
