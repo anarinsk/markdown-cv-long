@@ -4,20 +4,15 @@
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 @import url("https://cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-ligature-subset.css");
 
-h1 {
-	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
-	position: relative;
-	left: 25%;
-  font-family: 'NanumSquare' !important;
-  font-size: 90%
-}
-
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'NanumSquare' !important;
     font-weight : 600;
   }
+
+h1{
+    font-size : 70%;
+  }
+
 
 ul, li, ol, a{
     font-family: 'pretendard' !important;
