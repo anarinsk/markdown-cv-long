@@ -39,11 +39,11 @@ __NCSOFT__, R&I Team
 
  `2013.05 -- 2014.07`
 __KISDI__$$^*$$, Telecommunication Unit (Jinchun Chungchungbuk  &#183; South Korea)
-* Korea Information Society Development Institute (정보통신정책연구원)
+- $$*$$ Korea Information Society Development Institute (정보통신정책연구원)
 - Senior Researcher 
 
 `2012.01 -- 2013.03`
-__FourThirtyThree__ / 네시삼십삼분 (Seoul  &#183; South Korea)
+__FourThirtyThree__ 네시삼십삼분 (Seoul  &#183; South Korea)
 - Data Analyst, Constant
 
 `2011.03 -- 2012.02`
