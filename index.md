@@ -29,29 +29,29 @@ Econometric analysis on online gaming behaviors, game theory, Real-money trading
 
 ## Employment 
 
-`2019.02--present`
+`2019.02 -- present`
 __NCSOFT__, Data Center (Seongnam Gyeonggi  &#183; South Korea)
 - Lead (executive director)
 - managing the group of data scientists
 
-`2018.03--2019.01`
+`2018.03 -- 2019.01`
 __NCSOFT__, I&I Division 
 - Lead 
 
-`2014.08--2018.03`
+`2014.08 -- 2018.03`
 __NCSOFT__, R&I Team
 - Lead 
 
- `2013.05--2014.07`
+ `2013.05 -- 2014.07`
 __KISDI__, Telecommunication Unit (Jinchun Chungchungbuk  &#183; South Korea)
 - Korea Information Society Development Institute 정보통신정책연구원
 - Senior Researcher 
 
-`2012.01--2013.03`
+`2012.01 -- 2013.03`
 __FourThirtyThree__ 네시삼십삼분 (Seoul  &#183; South Korea) 
 - Data Analyst, Constant
 
-`2011.03--2012.02`
+`2011.03 -- 2012.02`
 __Seoul National University__ 서울대학교 (Seoul  &#183; South Korea) 
 - Postdoc., School of Economics 
 
