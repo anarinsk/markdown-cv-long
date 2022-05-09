@@ -38,8 +38,8 @@ __NCSOFT__, R&I Team
 - Lead 
 
  `2013.05 -- 2014.07`
-__KISDI__$^*$, Telecommunication Unit (Jinchun Chungchungbuk  &#183; South Korea)
-- * Korea Information Society Development Institute (정보통신정책연구원)
+__KISDI__$$^*$$, Telecommunication Unit (Jinchun Chungchungbuk  &#183; South Korea)
+* Korea Information Society Development Institute (정보통신정책연구원)
 - Senior Researcher 
 
 `2012.01 -- 2013.03`
