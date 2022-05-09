@@ -3,7 +3,7 @@ layout: cv
 title: Jun Sok Huhh's CV
 ---
 # Jun Sok Huhh / 허준석
-Economist, Data Scientist, Executive Director
+Economist, Data Scientist
 
 <div id="webaddress">
 <a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>
