@@ -6,12 +6,9 @@ title: Jun Sok Huhh's CV
 Economist, Data Scientist
 
 <div id="webaddress">
-<a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>
-&middot;
-<a href="mailto: anarinsk@gmail.com">mail(personal)</a>
-| 
-<a href="https://github.com/anarinsk">github</a>
-&middot;
+<a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>&middot;
+<a href="mailto: anarinsk@gmail.com">mail(personal)</a> | 
+<a href="https://github.com/anarinsk">github</a>&middot;
 <a href="http://lostineconomics.com">blog</a>
 </div>
 
@@ -98,10 +95,6 @@ Python, R, Mathematica, $$\rm \LaTeX$$, markdown
 __Familiar__
 NetLogo, Docker, Kubernetes
 
-<br>
-<br>
-<br>
-[lostineconomics.com](http://lostineconomics.com) | Jun Sok Huhh 
 
 <!-- ### Footer
 
