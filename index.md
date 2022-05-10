@@ -89,7 +89,7 @@ Jun Sok Huhh. 2008. "Culture and Business of PC Bangs in Korea." *Games and Cult
 ## Technical Skills 
 
 __Proficient__
-Python, R, Mathematica, $$\rm \LaTeX$$, markdown
+Python, R, Mathematica, $\rm \LaTeX$, markdown
 
 __Familiar__
 NetLogo, Docker, Kubernetes
