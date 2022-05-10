@@ -53,11 +53,11 @@ __FourThirtyThree__ 네시삼십삼분 (Seoul  &#183; South Korea)
 __Seoul National University__, Postdoc., School of Economics (Seoul &#183; South Korea)
 
 `2007 -- 2013`
-__Seoul National University__, Lecturer, Information and Multimedia Culture</br>
+__Seoul National University__, Lecturer, Information and Multimedia Culture
 - Lecture: "Economics and Management of Cotent", "Serious Gamming"
 
 `2013 -- 2013`
-__Kyunghee University__, Lecturer, Humanitas College 후마니타스 칼리지
+__Kyunghee University__, Lecturer, Humanitas College 후마니타스 칼리지 (Seoul &#183; South Korea)
 - Lecture: "Game Theory, Evolution, and Cooperation"
 
 `2011`
