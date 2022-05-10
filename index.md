@@ -54,9 +54,9 @@ __Seoul National University__ 서울대학교 (Seoul  &#183; South Korea)
 ## Education
 
 `2010`
-__Seoul National University__
-- Seoul  &#183; South Korea 
+__Seoul National University__ (Seoul  &#183; South Korea)
 - Ph.D. School of Economics
+- Thesis: "Three Essays on Evolutionary Game Theory and Its Economic Applications"
 
 `1997`
 __Seoul National University__
