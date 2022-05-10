@@ -2,6 +2,7 @@
 layout: cv
 title: Junsok Huhh's CV
 ---
+
 # Junsok Huhh / 허준석
 Economist, Data Scientist
 
@@ -94,6 +95,10 @@ Python, R, Mathematica, $\rm \LaTeX$, markdown
 __Familiar__
 NetLogo, Docker, Kubernetes
 
+<br>
+<br>
+<br>
+Last updated: May 2022 
 
 <!-- ### Footer
 
