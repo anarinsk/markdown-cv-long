@@ -4,7 +4,7 @@ title: Junsok Huhh's CV
 ---
 
 # Junsok Huhh / 허준석
-Economist, data scientist, and Hobbyist coder
+Economist, data scientist, and hobbyist coder
 
 <div id="webaddress">
 <a href="mailto: junsokhuhh@ncsoft.com">mail(work)</a>&middot;<a href="mailto: anarinsk@gmail.com">mail(personal)</a> | 
