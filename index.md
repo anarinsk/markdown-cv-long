@@ -13,7 +13,7 @@ Economist, data scientist, and hobbyist coder
 
 ## Currently
 
-__NCSOFT__ (South Korea), Lead of Data Center
+__NCSOFT__ 엔씨 (South Korea), Lead of Data Center
 
 ### Specialized in
 
@@ -40,7 +40,7 @@ __NCSOFT__, R&I Team
 
  `2013.05 -- 2014.07`
 __KISDI__$^*$ (Jinchun Chungchungbuk  &#183; South Korea)
-- $*$ Korea Information Society Development Institute (정보통신정책연구원)
+- $*$ Korea Information Society Development Institute 정보통신정책연구원
 - Senior Researcher (Telecommunication Unit)
 
 `2012.01 -- 2013.03`
