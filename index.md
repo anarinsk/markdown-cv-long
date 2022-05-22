@@ -136,9 +136,9 @@ Jun Sok Huhh and Jung-Kyu Choi. 1998. "Review of Radical Institutionalist econom
 
 In my doctoral thesis, the methods of evolutionary game theory and its dynamics are applied to some economic theories. This consists of three independently-themed papers. Each title is 
 
-  a. role of opportunistic punishment in the evolution of cooperation cooperation
-  a. Evolutionary dynamics on social ties
-  a. Replicator dynamics of population with players’ differing abilities.
+    a. role of opportunistic punishment in the evolution of cooperation cooperation
+    b. Evolutionary dynamics on social ties
+    c. Replicator dynamics of population with players’ differing abilities.
 
 ### Industry works and projects
 
