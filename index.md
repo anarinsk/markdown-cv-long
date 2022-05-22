@@ -21,7 +21,9 @@ Data analytics, Economics
 
 ### Research interests
 
-Econometric analysis on online gaming behaviors, game theory, Real-money trading in online games 
+- Econometric analysis on online gaming behaviors 
+- Real-money trading in online games
+- Game theory
 
 ## Employment (Industry)
 
