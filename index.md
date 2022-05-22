@@ -136,9 +136,9 @@ Jun Sok Huhh and Jung-Kyu Choi. 1998. "Review of Radical Institutionalist econom
 
 In my doctoral thesis, the methods of evolutionary game theory and its dynamics are applied to some economic theories. This consists of three independently-themed papers. Each title is 
 
-- role of opportunistic punishment in the evolution of cooperation cooperation
-- Evolutionary dynamics on social ties
-- Replicator dynamics of population with players’ differing abilities.
+- "role of opportunistic punishment in the evolution of cooperation cooperation"
+- "Evolutionary dynamics on social ties"
+- "Replicator dynamics of population with players’ differing abilities"
 
 ### Industry works and projects
 
@@ -149,8 +149,8 @@ In NCSOFT, my tasks includes designing ’(online) game’ economy, data analysi
 Another parts of my research focuses on online games and their economic impacts on society. Most of my works are based on the specific context of Korean online gaming including effects of RMT (Real-Money Trading) on online gaming
 service and individual gamers. Currently progressing researches are:
   
-  a. Relationship among game design, players’ behaviors and RMT
-  a. User data analysis of Korean online/mobile gaming
+- a. Relationship among game design, players’ behaviors and RMT
+- b. User data analysis of Korean online/mobile gaming
 
 ## Honors 
 
