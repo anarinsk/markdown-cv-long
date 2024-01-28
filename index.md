@@ -13,7 +13,7 @@ Economist, data scientist, and hobbyist coder
 
 ## Currently
 
-__NCSOFT__ 엔씨 (South Korea), Lead of Data Center
+__NCSOFT__ 엔씨 (South Korea), Executive Director
 
 ### Specialized in
 
@@ -26,6 +26,9 @@ Data analytics, Economics
 - Game theory
 
 ## Employment (Industry)
+
+`2024.01 -- present`
+__NCSOFT__, Executive Director (Seongnam Gyeonggi  &#183; South Korea)
 
 `2019.02 -- present`
 __NCSOFT__, Data Center (Seongnam Gyeonggi  &#183; South Korea)
