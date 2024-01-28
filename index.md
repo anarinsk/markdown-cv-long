@@ -30,7 +30,7 @@ Data analytics, Economics
 `2024.01 -- present`
 __NCSOFT__, Executive Director (Seongnam Gyeonggi  &#183; South Korea)
 
-`2019.02 -- present`
+`2019.02 -- 2023.12`
 __NCSOFT__, Data Center (Seongnam Gyeonggi  &#183; South Korea)
 - Lead (executive director)
 - managing the group of data scientists
