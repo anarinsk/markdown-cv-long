@@ -106,16 +106,16 @@ While at KISDI, my primary focus was on competition policy for the telecommunica
 
 In my doctoral thesis, I applied the methodologies of evolutionary game theory and its dynamics to various economic theories. The thesis is composed of three papers, each with a distinct theme. Their titles are:
 
-"The Role of Opportunistic Punishment in the Evolution of Cooperation"
-"Evolutionary Dynamics of Social Ties"
-"Replicator Dynamics in Populations with Players of Diverse Abilities"
+  - "The Role of Opportunistic Punishment in the Evolution of Cooperation"
+  - "Evolutionary Dynamics of Social Ties"
+  - "Replicator Dynamics in Populations with Players of Diverse Abilities"
 
 ### Other topics 
 
 Another facet of my research is centered on online games and their economic repercussions on society. The majority of my work is grounded in the particular context of the Korean online gaming industry, encompassing the effects of Real-Money Trading(RMT) on online gaming services and individual gamers. My research currently underway includes:
 
-a. Exploring the Relationship between Game Design, Player Behaviors, and RMT
-b. Analyzing User Data in Korean Online/Mobile Gaming
+  a. Exploring the Relationship between Game Design, Player Behaviors, and RMT
+  b. Analyzing User Data in Korean Online/Mobile Gaming
 
 
 ## Publications
