@@ -89,18 +89,16 @@ __Seoul National University__, M.A. School of Economics 1997
 
 __Seoul National University__, B.A. School of Economics 1995
 
-## Interests of Researches and Works
+## Interests of Works and Researches
 
-### Industry experience and projects
-
-#### At NCSOFT 
+### At NCSOFT 
 From February 2019, I served for four years as the head of an organization known as the Data Center at NCSOFT. Contrary to what the name might suggest, the "Data Center" at NCSOFT is not an entity that operates hardware infrastructure. Rather, it is a designation for an organization where data engineers, analysts, and modelers collaborate together.
 
 In my role as the head of the organization, I led the development of an independent data platform and foundational services for analysis based on open-source technology. I also developed analysis and dashboard services in close collaboration with the business analysis and modeling organization, as well as services for detecting fraudulent users. Although I do not have direct experience in engineering or development, my primary responsibility was facilitating the alignment and collaboration between engineers, analysts, data organizations, and other departments within the company, ensuring mutual understanding and cooperative efforts.
 
 Before leading Data Center, my responsibilities encompassed the design of the(online) game economy, data analysis of online game log data, and the formulation of corporate strategies based on economic situation analysis.
 
-#### At KISDI
+### At KISDI
 
 While at KISDI, my primary focus was on competition policy for the telecommunications industry. I extensively explored topics such as the tariff policy of mobile communications and the antitrust issues related to Korean online search engines.
 
