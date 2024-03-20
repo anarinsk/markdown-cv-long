@@ -5,7 +5,7 @@ title: Curriculum Vitae
 ---
 
 
-### Junsok Huhh(허준석)
+## Junsok Huhh(허준석)
 Economist, data scientist, and hobbyist coder
 
 <div id="webaddress">
