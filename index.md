@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Curriculum Vitae
-css: anari-custom.scss
+#css: anari-custom.scss
 ---
 
 
