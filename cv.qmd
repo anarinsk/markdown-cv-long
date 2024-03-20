@@ -1,6 +1,9 @@
 ---
-layout: cv
-title: Junsok Huhh's CV
+title: Curriculum Vitae
+#layout: cv
+#css: anari-custom.scss
+include-in-header: 
+    _layouts/cv-head.html
 ---
 
 # Junsok Huhh / 허준석

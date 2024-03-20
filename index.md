@@ -30,8 +30,8 @@ Data analytics, Economics
 ## Employment(Industry)
 
 `2024.01 -- present`
-__NCSOFT__, Executive Director(Seongnam Gyeonggi  &#183; South Korea)
-- Lead of "Managmenet Analytics Group"
+__NCSOFT__, Management Analytics Group (Seongnam Gyeonggi  &#183; South Korea)
+- Lead(executive director)
 
 `2019.02 -- 2023.12`
 __NCSOFT__, Data Center(Seongnam Gyeonggi  &#183; South Korea)
