@@ -96,7 +96,7 @@ From February 2019, I served for four years as the head of an organization known
 
 In my role as the head of the organization, I led the development of an independent data platform and foundational services for analysis based on open-source technology. I also developed analysis and dashboard services in close collaboration with the business analysis and modeling organization, as well as services for detecting fraudulent users. Although I do not have direct experience in engineering or development, my primary responsibility was facilitating the alignment and collaboration between engineers, analysts, data organizations, and other departments within the company, ensuring mutual understanding and cooperative efforts.
 
-Before leading Data Center, my responsibilities encompassed the design of the(online) game economy, data analysis of online game log data, and the formulation of corporate strategies based on economic situation analysis.
+Before I joined Data Center, my responsibilities encompassed the design of the(online) game economy, data analysis of online game log data, and the formulation of corporate strategies based on economic situation analysis.
 
 ### At KISDI
 
